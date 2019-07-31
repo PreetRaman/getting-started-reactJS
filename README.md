@@ -1,1 +1,3 @@
-# getting-started-reactJS
+# ReactJS CRUD
+
+CRUD application using ReactJS and mongoose
